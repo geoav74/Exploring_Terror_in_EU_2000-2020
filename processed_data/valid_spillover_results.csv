@@ -1,0 +1,53 @@
+source,target,lag,max_corr,zero_bias,confidence
+Finland,Sweden,2,0.824,0.788,Medium
+Hungary,Romania,0,0.632,0.972,Low
+Romania,Hungary,0,0.632,0.972,Low
+Finland,Estonia,3,0.476,0.928,Low
+Ireland,United Kingdom,0,0.462,0.171,High
+United Kingdom,Ireland,0,0.462,0.171,High
+Serbia,Croatia,0,0.327,0.837,Low
+Croatia,Serbia,0,0.327,0.837,Low
+Russia,Belarus,3,0.317,0.116,Low
+North Macedonia,Kosovo,0,0.313,0.623,Low
+Kosovo,North Macedonia,0,0.313,0.623,Low
+Sweden,Denmark,1,0.29,0.793,Low
+Montenegro,Albania,3,0.278,0.92,Low
+Slovenia,Croatia,3,0.26,0.956,Low
+Netherlands,Germany,2,0.24,0.536,Low
+Switzerland,France,1,0.217,0.347,Low
+Kosovo,Montenegro,1,0.214,0.681,Low
+Denmark,Norway,0,0.213,0.921,Low
+Norway,Denmark,0,0.213,0.921,Low
+Bosnia and Herzegovina,Serbia,2,0.205,0.764,Low
+Montenegro,Serbia,1,0.205,0.829,Low
+Serbia,Bulgaria,3,0.201,0.807,Low
+Bulgaria,Romania,1,0.199,0.932,Low
+Poland,Lithuania,0,0.194,0.972,Low
+Lithuania,Poland,0,0.194,0.972,Low
+Hungary,Slovakia,0,0.168,0.964,Low
+Slovakia,Hungary,0,0.168,0.964,Low
+Croatia,Bosnia and Herzegovina,2,0.159,0.852,Low
+France,Belgium,1,0.148,0.335,Low
+Romania,Serbia,2,0.146,0.856,Low
+Hungary,Croatia,2,0.134,0.928,Low
+Turkiye,Bulgaria,2,0.133,0.172,Low
+Belgium,Germany,2,0.128,0.564,Low
+Montenegro,Croatia,0,0.127,0.921,Low
+Croatia,Montenegro,0,0.127,0.921,Low
+Albania,Kosovo,3,0.126,0.663,Low
+Albania,Greece,3,0.125,0.301,Low
+Austria,Switzerland,0,0.116,0.881,Low
+Switzerland,Austria,0,0.116,0.881,Low
+Greece,Turkiye,3,0.113,0.068,Low
+Slovakia,Czechia,1,0.113,0.928,Low
+France,Germany,3,0.11,0.265,Low
+Switzerland,Italy,1,0.101,0.606,Low
+Slovakia,Austria,3,0.084,0.932,Low
+Russia,Latvia,1,0.081,0.116,Low
+Italy,Slovenia,1,0.075,0.641,Low
+Czechia,Poland,3,0.074,0.912,Low
+Norway,Finland,1,0.067,0.9,Low
+France,Spain,0,0.057,0.206,Low
+Spain,France,0,0.057,0.206,Low
+Ukraine,Slovakia,1,-0.029,0.594,Low
+North Macedonia,Greece,3,-0.082,0.253,Low
