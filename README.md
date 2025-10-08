@@ -1,4 +1,6 @@
-![]()
+<div align='center'>
+<img src="https://github.com/geoav74/Exploring_Terror_in_EU_2000-2020/blob/main/images/madrid_terror.jpeg" alt="terrorist incident in Madrid Spain" width="60%" height=auto>
+</div>
 
 # Exploring Terror in Europe (2000 - 2020)
 
