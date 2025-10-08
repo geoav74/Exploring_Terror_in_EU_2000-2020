@@ -39,7 +39,7 @@ _"What country-to-country 'spill-over' patterns exist?"_
 
 ## &#128736; Tools & Data
 
-- **Data**: [GTD &mdash; Global Terrorism Database](https://www.start.umd.edu/data-tools/GTD) (GTD is not included due to file size boundaries)
+- **Data**: [GTD &mdash; Global Terrorism Database](https://www.start.umd.edu/data-tools/GTD) (Original GTD is not included due to file size boundaries; instead, there is the processed file after the ETL implementation at the etl_outputs/)
 - **Icons**: [ICONS8](https://icons8.com/)
 - **Code**: Python (pandas, numpy, matplotlib, seaborn, geopandas, folium)
 - **Platform**: Google Colab
