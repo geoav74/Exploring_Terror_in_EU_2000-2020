@@ -21,7 +21,7 @@ _"Which perpetrator groups changed their preferred attack types or target profil
 
 &#128270; **Focus:** Shifts in tactics and target preferences by top terrorist groups.
 
-&#128161; *Among the five groups analyzed, **PKK**, **DPR**, and **LPR** clearly **adapted both their attack methods and target choices** in response to evolving conflict dynamics and strategic goals. In contrast, **ETA and Chechen Rebels** showed **no significant change**, and instead followed static patterns until operational collapse or demobilization.<br>
+&#128161; *Among the top five groups analyzed, **PKK**, **DPR**, and **LPR** clearly **adapted both their attack methods and target choices** in response to evolving conflict dynamics and strategic goals. In contrast, **ETA and Chechen Rebels** showed **no significant change**, and instead followed static patterns until operational collapse or demobilization.<br>
 These findings highlight that **hybrid insurgent actors** (PKK, DPR, LPR) tend to evolve tactically and target-wise over time, especially when involved in prolonged or regionally complex conflicts. In contrast, **ideologically rigid or territorially constrained groups** (ETA, Chechen Rebels) are less likely to adapt.*
 
 ---
