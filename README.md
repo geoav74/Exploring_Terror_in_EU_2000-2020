@@ -14,6 +14,8 @@ _"How did the nature, lethality, and modus operandi of terrorist activity evolve
 
 &#128161; *Between 2000 and 2020, terrorism in Europe experienced a **concentrated surge** during 2014 &ndash; 2016, followed by a sharp decline. The `nature` of terrorism evolved from sporadic attacks into **conflict-linked spikes**, especially in Eastern Europe. The `lethality` remained moderate overall, driven by a small number of deadly tactics. The `modus operandi` remained largely unchanged: **bombings and shootings** remained the default tools, while sophisticated or novel tactics remained rare. At the macro level, terrorism in Europe was shaped more by **geopolitical escalation and group reactivation** than by tactical innovation.*
 
+[&#128506; View the interactive map]([https://yourusername.github.io/your-repo/map.html](https://github.com/geoav74/Exploring_Terror_in_EU_2000-2020/blob/main/images/4_hotspots.html))
+
 ---
 
 ## &#127919; Objective-1:
